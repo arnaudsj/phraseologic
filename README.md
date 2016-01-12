@@ -1,5 +1,7 @@
 # phraseologic
 
+[![Join the chat at https://gitter.im/arnaudsj/phraseologic](https://badges.gitter.im/arnaudsj/phraseologic.svg)](https://gitter.im/arnaudsj/phraseologic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
